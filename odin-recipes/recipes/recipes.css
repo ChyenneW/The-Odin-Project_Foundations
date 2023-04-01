@@ -1,0 +1,18 @@
+h1,
+h3 {
+  text-align: center;
+  margin: 30px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 70%;
+  height: auto;
+}
+
+section {
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+}
