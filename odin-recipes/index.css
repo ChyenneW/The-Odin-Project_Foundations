@@ -1,0 +1,26 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  font-size: 8.5vw;
+}
+
+h4 {
+  margin: 50px;
+  font-size: 4.5vw;
+}
+
+a {
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 2.5vw;
+  padding: 20px;
+  margin: 5px;
+  transition: all 0.2ms ease;
+}
+
+a:hover {
+  background-color: lightskyblue;
+}
